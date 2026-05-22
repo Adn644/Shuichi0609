@@ -1,4 +1,5 @@
 # <p align="center">Hello, I'm Dibyarup Aich</p>
+<h3 align="center">AI enthusiast | Building Real-World Projects | Open to Opportunities </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;AI+Enthusiast;Student;Open+to+Research;Technical+Support&center=true&width=450&height=45&color=58a6ff&font=monospace" alt="Typing Animation">
@@ -9,10 +10,21 @@
 ## 🚀 About Me
 
 <p align="center">
-  I'm a college student pursuing B.Tech in Computer Science, passionate about AI and machine learning.<br>
+ 🎓 B.Tech in Computer Science<br>
   Currently building AI-powered systems and training CNN models for real-world applications.<br>
   I also enjoy working with Arduino programming and creating embedded AI solutions.
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 SmartCart — IoT-Based Retail Automation
+*React.js, Node.js, MongoDB, ESP8266, Load Cell, IoT*
+
+* Full-stack IoT-enabled smart billing system with real-time weight sensing, QR-based checkout & cloud-synced cart management
+* Architected the backend API and MongoDB data layer; integrated ESP8266 microcontroller with the web frontend for end-to-end automation
+* 🌐 [Website](https://io-t-based-smart-cart.vercel.app/) · [GitHub](https://github.com/AfifaSadiq/IoT_Based_Smart_Cart)
 
 ---
 
@@ -78,6 +90,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting-🙏-?style=for-the-badge&color=58a6ff" alt="Thanks">
-</p>
+From [Dibyarup Aich](https://github.com/Shuichi0609)
