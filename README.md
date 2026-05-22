@@ -41,15 +41,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shuichi0609&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuichi0609&layout=compact&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shuichi0609&theme=dark&hide_border=true&background=0d1117&stroke=30363d" alt="GitHub Streak"/>
-</p>
-
+<!-- Reliable stats via statscards.com -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuichi06609&theme=tokyonight)
+</div>
 ---
 
 ## 💡 Skills & Experience
