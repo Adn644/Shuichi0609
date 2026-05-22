@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 <p align="center">
-  * 🎓 B.Tech in Computer Science<br>
-  * Currently building AI-powered systems and training CNN models for real-world applications.<br>
-  * I also enjoy working with Arduino programming and creating embedded AI solutions.
+ 🎓 B.Tech in Computer Science<br>
+  Currently building AI-powered systems and training CNN models for real-world applications.<br>
+  I also enjoy working with Arduino programming and creating embedded AI solutions.
 </p>
 
 ---
